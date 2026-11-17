@@ -1,5 +1,7 @@
 # ABCD × DBNT × KISS
 
+**Status:** Beta — in production use, public skill release
+
 **Three habits for AI agents.** Bounded initiative, compounding lessons, and a bias against building what already exists.
 
 ---
@@ -23,7 +25,7 @@ Choose your harness:
 ### Claude Code
 
 ```bash
-git clone https://github.com/idirectships/ABCDxDBNTxKISS
+git clone https://github.com/Garman-Unified-Systems/ABCDxDBNTxKISS
 cp -r ABCDxDBNTxKISS/skills/abcd-dbnt-kiss ~/.claude/skills/
 ```
 
@@ -34,7 +36,7 @@ Claude Code picks up the skill on the next session start. The first run asks up 
 See [`adapters/codex/AGENTS.md`](adapters/codex/AGENTS.md).
 
 ```bash
-git clone https://github.com/idirectships/ABCDxDBNTxKISS
+git clone https://github.com/Garman-Unified-Systems/ABCDxDBNTxKISS
 cat ABCDxDBNTxKISS/METHOD.md >> your-project/AGENTS.md
 ```
 
@@ -43,7 +45,7 @@ cat ABCDxDBNTxKISS/METHOD.md >> your-project/AGENTS.md
 See [`adapters/cursor/rules.md`](adapters/cursor/rules.md).
 
 ```bash
-git clone https://github.com/idirectships/ABCDxDBNTxKISS
+git clone https://github.com/Garman-Unified-Systems/ABCDxDBNTxKISS
 cat ABCDxDBNTxKISS/METHOD.md >> .cursorrules
 ```
 
